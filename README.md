@@ -6,9 +6,9 @@ This is a simple program that calculates a commission based off of total sales, 
 ## Built With
 This simple program was created with [Java](https://www.java.com/en/) in [Eclipse](https://www.eclipse.org/).
 
-##Usage
+## Usage
 This program can be easily modified to print out the salary list to include $0.00 sales.
 This commission rates can also be easily adjusted within the program to print out to your specifications.
 
-##Contributor
+## Contributor
 Me :slightly_smiling_face:
